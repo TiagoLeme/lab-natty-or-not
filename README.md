@@ -8,6 +8,8 @@ Série de imagens e texto de como amenizar o aquecimento global.
 ## 🤖 Tecnologias Utilizadas
 
 *ChatGPT
+
+
 *Leonardo.AI
 
 ## 🧐 Processo de Criação
