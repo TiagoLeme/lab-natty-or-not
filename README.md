@@ -1,6 +1,6 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-# Como vencer o aquecimento global ;)
+# Como vencer o aquecimento global 
 
 ## 📒 Descrição
 Série de imagens e texto de como amenizar o aquecimento global. 
